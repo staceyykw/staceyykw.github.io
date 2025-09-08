@@ -1,3 +1,4 @@
 # staceyykw.github.io
 
-banana
+<h1>banana<h1>
+<h6> big banana</h6>
