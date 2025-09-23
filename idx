@@ -7,17 +7,26 @@
       href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300%7CCinzel+Decorative:700"
       rel="stylesheet" />
     <link href="https://staceyykw.github.io/bird.css" rel="stylesheet">
+
 <!-- link to the css file uploaded to my github repository, accessed by the link -->
   </head> 
 
   <body>
   <header> <!--added Header that contains the top portion-->
     <h1>Birdwatching</h1>
-
-    Home Get started Photos Gear Forum
+  <nav>
+    <ul> <!-- unordered list following the style for nav in the css -->
+      <li><span>Home</span></li> 
+      <li><span>Get started </span></li> 
+      <li><span>Photos </span></li> 
+      <li><span>Gear </span></li> 
+      <li><span>Forum</span></li> 
+    </ul>
+    </nav>
 </header>
 
 <main> <!--added 'main' section that will include Welcome and Favourite Photos sections -->
+  <article>
     <h2>Welcome</h2>
 
     <p>
@@ -32,10 +41,13 @@
       So don't waste time! Get what you need, then turn off that computer and
       get out into the great outdoors!
     </p>
+    </article>
 
+    <aside>
     <h2>Favorite photos</h2>
 
-    <!-- Link images here. -->
+    <!-- Link images here. Will be within aside, which according to the css, will display on the right side-->
+    </aside>
 </main>
 
 <footer> <!--added footer that contains the footnote and link for Dove icon -->
