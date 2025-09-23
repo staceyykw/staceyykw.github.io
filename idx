@@ -8,13 +8,16 @@
       rel="stylesheet" />
     <link href="https://staceyykw.github.io/bird.css" rel="stylesheet">
 <!-- link to the css file uploaded to my github repository, accessed by the link -->
-  </head>
+  </head> 
 
   <body>
+  <header> <!--added Header that contains the top portion-->
     <h1>Birdwatching</h1>
 
     Home Get started Photos Gear Forum
+</header>
 
+<main> <!--added 'main' section that will include Welcome and Favourite Photos sections -->
     <h2>Welcome</h2>
 
     <p>
@@ -33,7 +36,9 @@
     <h2>Favorite photos</h2>
 
     <!-- Link images here. -->
+</main>
 
+<footer> <!--added footer that contains the footnote and link for Dove icon -->
     <p>
       This fake website example is CC0 — any part of this code may be reused
       in any way you wish. Original example written by Chris Mills, 2016.
@@ -43,5 +48,6 @@
       <a href="http://game-icons.net/lorc/originals/dove.html">Dove icon</a>
       by Lorc.
     </p>
+  </footer>
   </body>
 </html>
