@@ -6,6 +6,8 @@
     <link
       href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300%7CCinzel+Decorative:700"
       rel="stylesheet" />
+    <link href="https://staceyykw.github.io/bird.css" rel="stylesheet">
+<!-- link to the css file uploaded to my github repository, accessed by the link -->
   </head>
 
   <body>
